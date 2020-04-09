@@ -5,7 +5,7 @@
 + 创建一个库：CREATE database testbase;
 + 显示所有库：show databases;
 + 删除一个库：drop testbase;
-+ 使用一个库: show testbase;
++ 使用一个库: use testbase;
 ### 表
 表就像Excel的统计表一样，由一些字段(域)(列名)组成
 + 创建一个表:create table person(ID int audo_increment,name char(20),primary key(ID));
