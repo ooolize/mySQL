@@ -33,7 +33,7 @@
 ### 排序order by
 只看数学前三：select * from person order by math desc limit 3;
 
-desc是升序，asc升序
+desc是降序，asc升序
 ### 数据完整性
 ### 多表设计
 ### 多表查询
